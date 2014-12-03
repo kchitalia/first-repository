@@ -2,5 +2,6 @@
 
 This is my first repo for git training.
 
-## Informatio
+## Information
 - Name: Kunal Chitalia
+- Profession: Creator
