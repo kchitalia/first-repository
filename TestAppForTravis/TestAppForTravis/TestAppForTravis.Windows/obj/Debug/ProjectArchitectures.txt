@@ -1,0 +1,1 @@
+C:\Test\firstrepository\TestAppForTravis\TestAppForTravis\TestAppForTravis.Windows\TestAppForTravis.Windows.csproj;neutral

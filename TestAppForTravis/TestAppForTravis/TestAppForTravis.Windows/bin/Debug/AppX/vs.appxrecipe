@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KCHITALIA-LT1</Machine>
+    <WindowsUser>kchitalia</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e313f809-dea2-48b2-a85d-c7263c7f371d</PackageIdentityName>
+    <IntermediateOutputPath>C:\Test\firstrepository\TestAppForTravis\TestAppForTravis\TestAppForTravis.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>F6D842AE16875C3D524ED33D18AB493CD4505330088BDD1FC6F0317A715D2E8D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e313f809-dea2-48b2-a85d-c7263c7f371d_1.0.0.0_neutral__6qtbmr2svpk9e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e313f809-dea2-48b2-a85d-c7263c7f371d_6qtbmr2svpk9e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e313f809-dea2-48b2-a85d-c7263c7f371d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=kchitalia</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Test\firstrepository\TestAppForTravis\TestAppForTravis\TestAppForTravis.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-02T22:22:14.505</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Test\firstrepository\TestAppForTravis\TestAppForTravis\TestAppForTravis.Windows\bin\Debug\TestAppForTravis.Windows.exe">
+      <PackagePath>TestAppForTravis.Windows.exe</PackagePath>
+      <Modified>2015-07-02T22:22:13.681</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Test\firstrepository\TestAppForTravis\TestAppForTravis\TestAppForTravis.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Test\firstrepository\TestAppForTravis\TestAppForTravis\TestAppForTravis.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Test\firstrepository\TestAppForTravis\TestAppForTravis\TestAppForTravis.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Test\firstrepository\TestAppForTravis\TestAppForTravis\TestAppForTravis.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Test\firstrepository\TestAppForTravis\TestAppForTravis\TestAppForTravis.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-07-02T22:22:13.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Test\firstrepository\TestAppForTravis\TestAppForTravis\TestAppForTravis.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-07-02T22:22:13.197</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Test\firstrepository\TestAppForTravis\TestAppForTravis\TestAppForTravis.Windows\bin\Debug\TestAppForTravis.Windows.xr.xml">
+      <PackagePath>TestAppForTravis.Windows.xr.xml</PackagePath>
+      <Modified>2015-07-02T22:22:13.170</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Test\firstrepository\TestAppForTravis\TestAppForTravis\TestAppForTravis.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-07-02T22:22:14.118</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
